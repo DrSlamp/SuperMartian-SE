@@ -9,7 +9,7 @@ get all necessary packages
 
 How to use: 
 
-use venv environment 
+use venv environment, about venv -> https://docs.python.org/3/library/venv.html
 create in martian6 folder  
 Enter to the directory, for instance: cd martian6
 Create a Python environment, for instance: python3 -m venv .venv
