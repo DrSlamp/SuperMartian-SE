@@ -31,8 +31,9 @@ Tileset
 
 
 Martian:
+![martian](https://user-images.githubusercontent.com/24397487/232254891-695dbcc3-ae6e-48f4-a539-ef4b40026ab9.png)
 
-![martian](https://user-images.githubusercontent.com/24397487/232177050-5fc9dd54-1d70-4b62-870e-ef3a3415764f.png)
+
 
 Creatures:
 
