@@ -31,7 +31,7 @@ def pickup_coin(
 
 
 def pickup_green_coin(coin: GameItem, player: Player):
-    pickup_coin(coin, player, 1, 62, random.uniform(2, 4), random.uniform(2, 6) )
+    pickup_coin(coin, player, 1, 62, random.uniform(2, 4), 10000 )
 
 
 def pickup_blue_coin(coin: GameItem, player: Player):
@@ -46,8 +46,10 @@ def pickup_yellow_coin(coin: GameItem, player: Player):
     pickup_coin(coin, player, 50, 54, random.uniform(20, 25), 10000)
 
 def pickup_yellow_key(coin: GameItem, player: Player):
-        for _ in range(3):
-            pickup_coin(coin, player, 1, 68, 1, 1)
+         if player.coins_counter[68] < 2:
+               pickup_coin(coin, player, 0, 68, 1, 10000)
+         else: 
+            pickup_coin(coin, player, 0, 68, 1000, 1000)
         
 
 
