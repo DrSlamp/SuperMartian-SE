@@ -45,4 +45,6 @@ MagicBox:
 Special Key: 
 ![image](https://user-images.githubusercontent.com/24397487/232177090-0d7ad1d3-372f-4ba1-a342-97b6dfd2cfae.png)
 
+Special thanks! 
+![image](https://user-images.githubusercontent.com/24397487/232254798-16708f9d-8f32-4f3e-8024-d58d18b89536.png)
 
