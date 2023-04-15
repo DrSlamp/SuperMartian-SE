@@ -19,9 +19,11 @@ Run the game: python main.py
 
 Features: 
 
-![Captura de pantalla 2023-04-14 212635](https://user-images.githubusercontent.com/24397487/232176999-16daf103-44f0-43c9-90b4-be0642ccc3d5.png) 
+![image](https://user-images.githubusercontent.com/24397487/232254755-956d1207-b8e6-4750-af5d-2f16132de9dc.png)
 
 Super Martian SE  
+![image](https://user-images.githubusercontent.com/24397487/232254736-ccad3f1d-0382-4dca-9eeb-cc3ff300c673.png)
+
 
 Assets:
 Tileset
