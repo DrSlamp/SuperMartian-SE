@@ -6,7 +6,9 @@ Senior: @R3mmurd
 
 Requirements: Linux OS (Ubuntu or something)
 get all necessary packages 
-
+**************************************************************************
+*** Use SM_SE_update.zip for get the best version of Super Martian - SE***
+**************************************************************************
 How to use: 
 
 use venv environment, about venv -> https://docs.python.org/3/library/venv.html
