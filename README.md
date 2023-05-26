@@ -2,7 +2,7 @@
 Python - Pygame - Gale
 
 Developers: @DrSlamp  - @Coabest 
-Senior: @R3mmurd 
+- Senior: @R3mmurd 
 
 Requirements: Linux OS (Ubuntu or something)
 get all necessary packages 
