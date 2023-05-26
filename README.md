@@ -47,7 +47,7 @@ MagicBox:
 
 Special Key: 
 ![image](https://user-images.githubusercontent.com/24397487/232177090-0d7ad1d3-372f-4ba1-a342-97b6dfd2cfae.png)
-Special emerald Key ( unzip first the update and replace martian6 folder.)
+Special emerald Key (  first unzip the update and replace martian6 folder.)
 ![image](https://user-images.githubusercontent.com/24397487/232263940-10f6f68d-676f-4253-a08d-1791fece8a98.png)
 
 
